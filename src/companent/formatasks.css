@@ -1,0 +1,22 @@
+.a{
+    font-weight: bolder;
+    margin: 15px;
+    font-size: 44px;
+
+}
+
+
+
+
+.btn_ajouter{
+    background-color: blue;
+}
+
+
+.btn_ajouter:hover{
+    transition: all 0.2s ease-in-out;
+    width: 180px;
+    font-size: 24px;
+}
+
+

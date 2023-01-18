@@ -1,0 +1,48 @@
+
+
+
+
+
+.option_style:hover{
+    background-color: orange;
+    color:white;
+    font-weight: bolder;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.input{
+    font-weight: bolder;
+    border-radius: 10px;
+    width: 300px;
+    margin: 20px;
+    height: 3rem;
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 255, 0.349);
+}
+
+
+
+
+.button{
+    font-size: 22px;
+    background-color: rgb(255, 102, 0);
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    padding: 6px;
+    font-weight: bolder;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+
+
+.button:hover{
+    color: #fff;
+    background-color: dodgerblue;
+    transition: all 0.2s ease-in-out;
+    font-size: 26px;
+    width: 180px;
+}

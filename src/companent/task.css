@@ -1,0 +1,49 @@
+.input_task{
+    width: 450px;
+    height: 3rem;
+    padding: 20px;
+    margin: 30px;
+    margin-right: 0;
+    border: 2px solid rgb(92, 92, 92);border-radius: 10px;
+    font-weight: bolder;
+}
+
+
+
+.button_task{
+    text-align: center;
+    width: 150px;
+    font-size: 21px;
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    font-weight: bolder;
+    color: white;
+    border-radius: 50px;
+    transition: all 0.2s ease-in-out;
+}
+
+
+
+.btn_supp{
+    background-color: red;
+}
+.btn_supp:hover{
+    width: 180px;
+    font-size: 24px;
+    transition: all 0.2s ease-in-out;
+}
+.btn_ter{
+    background-color: rgb(58, 212, 58);
+}
+
+.btn_ter:hover{
+    width: 180px;
+    font-size: 24px;
+    transition: all 0.2s ease-in-out;
+}
+.termine{
+    opacity: 0.5;
+    text-decoration:double;
+    transition: all 0.25s ease-in-out;
+}
